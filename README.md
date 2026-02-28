@@ -7,10 +7,10 @@ This program read measured coordinates and learn how to predict the actual coord
 It acts like a digital corrector for sensor or GPS errors using a Multi-Layer Perceptron (MLP).
 
 ## Key Features
--**Configurable**: Change neurons, epochs, and learning rate in config.txt.
--**Encapsulation**: Clean Java code using private fields and getters for safety.
--**Early Stopping**: The training stops automatically when the model is ready to prevent overfitting.
--**Normalization**: Automatically scales data to improve training efficiency.
+- **Configurable**: Change neurons, epochs, and learning rate in config.txt.
+- **Encapsulation**: Clean Java code using private fields and getters for safety.
+- **Early Stopping**: The training stops automatically when the model is ready to prevent overfitting.
+- **Normalization**: Automatically scales data to improve training efficiency.
 
 ##How to run it?
 1. Ensure you have **Java17+** and **Maven** installed.
