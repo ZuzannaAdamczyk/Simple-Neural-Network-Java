@@ -12,14 +12,14 @@ It acts like a digital corrector for sensor or GPS errors using a Multi-Layer Pe
 - **Early Stopping**: The training stops automatically when the model is ready to prevent overfitting.
 - **Normalization**: Automatically scales data to improve training efficiency.
 
-##How to run it?
+## How to run it?
 1. Ensure you have **Java17+** and **Maven** installed.
 2. Put your csv data in te data/ folder
 3. Adjust setting in config.txt
 4. Run Main.java
 5. Check te result/ folder for MSE logs and prediction results
 
-##Technologies
+## Technologies
 - Java 17
 - Maven
 - DeepLearning4j 
