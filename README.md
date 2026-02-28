@@ -2,7 +2,7 @@
 A simple java project that uses a neural network to fix coordinate errors.
 It uses the DeepLearning4j library to train model on CSV data.
 
-##What does this project do? 
+## What does this project do? 
 This program read measured coordinates and learn how to predict the actual coordinates.
 It acts like a digital corrector for sensor or GPS errors using a Multi-Layer Perceptron (MLP).
 
